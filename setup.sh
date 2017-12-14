@@ -9,11 +9,11 @@ STACK_NAME="newcloud"
 
 #echo "Enter the GitHub repository:"
 #read GITHUB_REPO
-GITHUB_REPO="new-cloud"
+GITHUB_REPO="newcloud"
 
 #echo "Enter the GitHub owner:"
 #read GITHUB_OWNER
-GITHUB_OWNER="khoick245"
+GITHUB_OWNER="https://github.com/khoick245"
 
 #echo "Enter the GitHub OAuth Token:"
 #read GITHUB_OAUTH_TOKEN

@@ -1,6 +1,6 @@
 ---
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Continuous Delivery pipeline for static website'
+Description: 'Delivery lambda function'
 Parameters:
   GitHubOwner:
     Description: 'The owner of the GitHub repository.'
