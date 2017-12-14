@@ -9,7 +9,7 @@ STACK_NAME="newcloud"
 
 #echo "Enter the GitHub repository:"
 #read GITHUB_REPO
-GITHUB_REPO="newcloud"
+GITHUB_REPO="new-cloud"
 
 #echo "Enter the GitHub owner:"
 #read GITHUB_OWNER
